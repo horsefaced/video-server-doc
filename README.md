@@ -1,6 +1,4 @@
-# video-server-doc
-
-VideoServer的说明文档
+# VideoServer的说明文档
 
 ## 客户端文件引用
 
