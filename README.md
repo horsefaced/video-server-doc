@@ -14,6 +14,12 @@
 <script src="http://fzcjit.320.io:58080/video-player.js" type="text/javascript"></script>
 ```
 
+如果是从业务系统得到可以直接使用
+
+```html
+<script src="业务系统地址:业务系统端口/video-player.js" type="text/javascript"></script>
+```
+
 
 
 ## 客户端使用
