@@ -82,6 +82,13 @@
    ```javascript
    player.current = 5; //5为秒, 如果超过回放流长度, 回放流会直接停止并不会播放
    ```
+   比如拖动进度条这个功能
+   
+   ```javascript
+   player.current = 10; //拖动到10 秒
+   player.play(source); //继续播放视频
+   ```
+   
 
 ### 事件部分
 
