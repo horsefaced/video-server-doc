@@ -87,6 +87,7 @@
    比如拖动进度条这个功能
    
    ```javascript
+   player.pause();
    player.current = 10; //拖动到10 秒
    player.play(source); //继续播放视频
    ```
